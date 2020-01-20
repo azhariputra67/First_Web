@@ -1,0 +1,67 @@
+.bg-lightblue{
+	background-color: #668cff;
+}
+
+.bg-lightgrey{
+	background-color: #F8F8F8;
+}
+
+.bg-white{
+	background-color: white;
+}
+
+.fontclr{
+  color: white;
+}
+
+.content{
+	margin-top: 25px;
+}
+
+.title-box hr{
+ 	margin-top: 0.5em;
+  	margin-bottom: 0.5em;
+  	border-style: inset;
+  	border-width: 1px;
+}
+
+
+.title{
+	height: 63px;
+}
+
+.date hr{
+ 	margin-top: 0.5em;
+  	margin-bottom: 0.5em;
+  	border-style: solid;
+  	border-width: 1px;
+}
+
+ .padartikel{
+    margin-top: 20px;
+ }
+
+footer{
+  margin-top: 50px;
+  height: 70px;
+  width: 100%;
+  background-color: #333;
+  color: black;
+}
+
+footer p{
+    margin-top: 30px;
+    text-align: right;
+    color: white;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+  }
+
+ .affix + .container-fluid {
+    padding-top: 70px;
+ }
+
